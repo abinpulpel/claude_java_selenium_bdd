@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ClaudeJavaSeleniumBDDSuite" data-provider-thread-count="3" verbose="1">
+    <test name="CucumberBDDTest">
+        <classes>
+            <class name="com.claude.bdd.runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>
