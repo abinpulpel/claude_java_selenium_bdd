@@ -1,0 +1,12 @@
+target/
+.git/
+.github/
+logs/
+screenshots/
+reports/
+cucumber-reports/
+*.log
+.idea/
+*.iml
+.vscode/
+.DS_Store
